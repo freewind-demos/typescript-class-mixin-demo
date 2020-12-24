@@ -6,5 +6,8 @@
     "@types/node": "13.7.7",
     "ts-node": "8.6.2",
     "typescript": "3.8.3"
+  },
+  "dependencies": {
+    "ts-mixer": "5.4.0"
   }
 }
